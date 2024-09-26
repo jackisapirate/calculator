@@ -2,7 +2,7 @@
 
 ## Result
 
-![Calculator Result](https://github.com/jackisapirate/calculator/blob/master/result.png) 
+![Calculator Result](https://raw.githubusercontent.com/jackisapirate/calculator/master/result.png) 
 
 ## Overview
 
