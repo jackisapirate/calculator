@@ -2,7 +2,7 @@
 
 ## Result
 
-![Calculator Result](https://example.com/logo.png) 
+![Calculator Result](https://github.com/jackisapirate/calculator/blob/master/result.png) 
 
 ## Overview
 
@@ -38,4 +38,3 @@ A versatile and extensible calculator built using **Spring Boot**. This project 
    git clone https://github.com/jackisapirate/calculator.git
    cd Calculator
    ```
-
